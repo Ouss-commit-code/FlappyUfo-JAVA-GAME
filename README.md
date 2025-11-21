@@ -4,9 +4,12 @@ flappy Ufo JAVA GAME is a simple arcade game implemented in Java, typically usin
 
 The game is often built using object-oriented programming (OOP) principles, with classes defined for the bird, pipes, and game logic. The bird's movement is simulated using velocity, where pressing the spacebar applies an upward force, and gravity continuously pulls the bird downward. Collision detection is implemented to check if the bird hits a pipe, the ground, or the top of the screen, which results in a game over. The game loop, often managed by a Timer, updates the positions of the bird and pipes, and repaints the screen to reflect the current state.
 
+Game logic helper :
+<img width="985" height="527" alt="image" src="https://github.com/user-attachments/assets/758b9427-f27b-4af8-a84c-7142cb6a48e4" />
 
 
 
+Preview : 
 <img width="362" height="669" alt="image" src="https://github.com/user-attachments/assets/106e7d28-1251-4101-8be5-c05b9d8daace" />
 
 
